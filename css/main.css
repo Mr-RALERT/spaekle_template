@@ -343,7 +343,7 @@ a {
 /* Start Landing */
 .landing {
     height: 100vh; /* 100 */
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/72/470/550/europe-france-chamonix-white-lake-wallpaper-preview.jpg");
+    background-image: url("../images/landing.jpg");
     background-size:cover;
     background-color: #1b1b1b;
     position: relative;
