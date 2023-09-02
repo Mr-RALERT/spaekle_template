@@ -343,7 +343,7 @@ a {
 /* Start Landing */
 .landing {
     height: 100vh; /* 100 */
-    background-image: url(Mr-RALERT/spaekle_template/blob/main/images/landing.jpg);
+    background-image: url(./images/landing.jpg);
     background-size:cover;
     background-color: #1b1b1b;
     position: relative;
